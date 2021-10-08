@@ -2055,7 +2055,7 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.5;
+			opacity: 0.1;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -2592,10 +2592,10 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/Screen\ Shot\ 2021-10-07\ at\ 4.09.49\ PM.png");
+		background-image: url("images/over-lay.png"), url("../../images/Mostar.jpeg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
-		background-size: auto,								150%;
+		background-size: auto,								cover;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
