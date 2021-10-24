@@ -138,6 +138,41 @@ input, select, textarea {
 		margin: 0 0 .5em 0;
 	}
 
+	.logo {
+		align-items: center;
+		text-align: center;
+		word-wrap: break-word;
+	}
+
+	.img {
+		width: 7em;
+		height: 7em;
+		padding: .3em;
+	}
+
+	.section_all {
+		position: relative;
+		padding-top: 2em;
+		padding-bottom: 2em;
+	}
+
+	.container {
+		width: 100%;
+		padding-right: 15px;
+		padding-left: 15px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	
+
+	.logo-div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		/* box-shadow: #757575bd 0 8px 6px -6px; */
+		/* padding: 1em; */
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #787878;
 		font-weight: 400;
