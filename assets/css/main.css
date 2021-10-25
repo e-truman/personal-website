@@ -2633,6 +2633,7 @@ input, select, textarea {
 		background-color: #333333;
 		background-attachment:scroll,								scroll;
 		background-image: url("#"), url("../../images/mostar.jpg");
+		background-image: linear-gradient(transparent, transparent, transparent, #333333 99%), url("../../images/mostar.jpg");
 		background-position: top left,							top left;
 		background-repeat: no-repeat,								no-repeat;
 		background-size: cover,								cover;
