@@ -2899,7 +2899,7 @@ input, select, textarea {
 
 			.poptrox-popup .nav-next:before,
 			.poptrox-popup .nav-previous:before {
-				color: #fff;
+				color: #333333;
 				font-size: 2.5em;
 				height: 1em;
 				line-height: 1em;
@@ -2935,7 +2935,7 @@ input, select, textarea {
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
 			-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-			color: #fff;
+			color: #333333;
 			height: 4em;
 			line-height: 4em;
 			opacity: 0;
@@ -3118,7 +3118,7 @@ input, select, textarea {
 			#footer {
 				background-attachment: scroll;
 				background-color: #333333;
-				background-image: linear-gradient(top right #333333, 50% #969292);
+				background-image: linear-gradient(topright #333333, 50% #969292);
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
